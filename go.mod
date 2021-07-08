@@ -15,8 +15,8 @@ require (
 	github.com/homeport/pina-golada v1.4.3
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/onsi/ginkgo v1.15.2
-	github.com/onsi/gomega v1.11.0
+	github.com/onsi/ginkgo v1.16.4
+	github.com/onsi/gomega v1.14.0
 	github.com/spf13/cobra v1.1.3
 	github.com/tcnksm/go-latest v0.0.0-20170313132115-e3007ae9052e
 	gopkg.in/src-d/go-git.v4 v4.13.1
